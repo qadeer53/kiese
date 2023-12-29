@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Kiese"/>
   <Description DefaultValue="BUSINESS DEVELOPMENT MANAGEMENT SOFTWARE"/>
-  <IconUrl DefaultValue="https://script-lab.azureedge.net/assets/images/icon-64.png" />
-  <HighResolutionIconUrl DefaultValue="https://script-lab.azureedge.net/assets/images/icon-128.png"/>
+  <IconUrl DefaultValue="https://qadeer53.github.io/kiese/assets/icon-64.png" />
+  <HighResolutionIconUrl DefaultValue="https://qadeer53.github.io/kiese/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.kiesetechnologies.com/contact-us/"/>
   <AppDomains>
     <AppDomain>https://www.kiesetechnologies.com</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://kiese-addin.web.app/taskpane.html"/>
+        <SourceLocation DefaultValue="https://qadeer53.github.io/kiese/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -85,13 +85,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://script-lab.azureedge.net/assets/images/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://script-lab.azureedge.net/assets/images/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://script-lab.azureedge.net/assets/images/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://qadeer53.github.io/kiese/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://qadeer53.github.io/kiese/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://qadeer53.github.io/kiese/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://kiese-addin.web.app/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://kiese-addin.web.app/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://qadeer53.github.io/kiese/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://qadeer53.github.io/kiese/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Kiese Add-in"/>
