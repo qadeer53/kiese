@@ -1,0 +1,6 @@
+Install yo generator-office by executing "npm install -g yo generator-office"
+Install dependencies by executing "npm install".
+To start the project, use the "npm start" command.
+Press the "Register Outlook Developer Add-In Manifest" Popup's "Ok" button.(maybe you need administrator permission)
+It will start the Outlook app. Click a message to open it, then click the toolbar's "Show Taskpane" button. The Outlook Add-in is going to be Sideloaded.
+All Flow explained in video mention in trello.

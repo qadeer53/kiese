@@ -1,0 +1,76 @@
+.ms-welcome__card {
+  background: white !important;
+  border-radius: 7px !important;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+  border: none !important;
+}
+.ms-welcome__card-heading {
+  color: #373f45 !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+.ms-welcome__card-email {
+  color: #4076ba !important;
+  font-weight: bold !important;
+}
+
+.custom-btn {
+  background: #f67959 !important;
+  color: white !important;
+  border-radius: 3px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none !important;
+  padding: 5px 20px !important;
+}
+.logout-btn {
+  background: #f67959 !important;
+  color: white !important;
+  border-radius: 3px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none !important;
+  padding:5px 8px;
+  font-size:13px;
+}
+
+.avatar {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.avatar-initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: #ccc;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.link-label {
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+
+.login-card .form-control:focus{
+  box-shadow: none !important;
+}
+.custom-spinner{
+  color: "#ffffff"  !important;
+}
+
